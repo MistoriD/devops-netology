@@ -1,3 +1,5 @@
 # devops-netology
 
 ### Hi, Nitology
+
+    В этом репозитории используется .gitignore для папки terraform. Он игнорирует файлы состояния .tfstate, .tfstate.backup, директорию .terraform и другие временные файлы Terraform, чтобы не засорять репозиторий бинарными и чувствительными данными.
